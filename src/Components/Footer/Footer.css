@@ -4,3 +4,12 @@
   max-width: 865px;
   left: 283px;
 }
+
+.submit {
+  color: white;
+  background-color: #19274d;
+}
+.submit:hover {
+  background-color: white;
+  color: #19274d;
+}

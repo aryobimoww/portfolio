@@ -12,7 +12,7 @@ const Footer = () => {
                     <div className="cf">
                         <label className="clip" for="email-address">Email Address</label>
                         <input className="f6 f5-l input-reset bn fl black-80 bg-white pa3 lh-solid w-100 w-75-m w-80-l br2-ns br--left-ns" placeholder="Your Email Address" type="text" name="email-address" value="" id="email-address"/>
-                        <input className="f6 f5-l button-reset fl pv3 tc bn bg-animate bg-near-white-70 hover-bg-near-white black pointer w-100 w-25-m w-20-l br2-ns br--right-ns" type="submit" value="Subscribe"/>
+                        <input className="f6 f5-l button-reset fl pv3 tc bn bg-animate pointer w-100 w-25-m w-20-l br2-ns br--right-ns submit" type="submit" value="Subscribe" />
                     </div>
                     </fieldset>
                 </form>

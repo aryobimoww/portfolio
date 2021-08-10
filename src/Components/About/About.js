@@ -13,7 +13,7 @@ const About = () => {
         <div>
             <div id='about' className='about pb1 pt1 bg-near-white'>
                 <div>
-                    <h1 className='tc pt3'style={{color:'#87ceeb'}}>About</h1>
+                    <h1 className='tc pt3'style={{color:'#87ceeb'}} data-aos='fade-right'>About</h1>
                 </div>
                     <div className="flex flex-wrap justify-around ">
                         <div className=" w-40-ns pa3 mr2 ">
