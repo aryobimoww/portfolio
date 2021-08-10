@@ -1,0 +1,20 @@
+.hero {
+  /* Rectangle 6 */
+  /* position: relative; */
+  max-width: 865px;
+  max-height: 455px;
+  left: 283px;
+  top: 0px;
+  z-index: 0;
+  background: linear-gradient(270deg, #48a0c5 14.85%, #87ceeb 70.45%);
+}
+
+.hero-foto {
+  /* 17559 1 */
+
+  /* position: relative; */
+  max-width: 277px;
+  max-height: 371px;
+  left: 50px;
+  top: 80px;
+}

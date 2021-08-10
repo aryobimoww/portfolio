@@ -1,0 +1,9 @@
+.about {
+  /* position: relative; */
+  max-width: 865px;
+
+  left: 283px;
+}
+.navbar .push {
+  padding-left: 60%;
+}
