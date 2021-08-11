@@ -13,3 +13,24 @@
   background-color: white;
   color: #19274d;
 }
+
+#scroll-container {
+  border: 3px solid white;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+#scroll-text {
+  /* animation properties */
+  translatex: 100%;
+  animation: my-animation 15s linear infinite;
+}
+
+@keyframes my-animation {
+  from {
+    transfrom: translatex(100%);
+  }
+  to {
+    transform: translate(-100%);
+  }
+}

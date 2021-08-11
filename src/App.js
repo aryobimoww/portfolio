@@ -14,9 +14,7 @@ AOS.init({
   delay:200
 
 });
-const option = {
-  speed:300
-}
+
 
 
 
@@ -30,7 +28,6 @@ function App() {
         <Portf/>
         <Footer/>
       </div>
-      <script>let scroll = new SmoothScroll('a[href*="#"]');</script>
     </div>
   );
 }
