@@ -2,7 +2,6 @@
   /* position: relative; */
 
   max-width: 865px;
-  left: 283px;
 }
 
 .submit {
@@ -22,15 +21,15 @@
 
 #scroll-text {
   /* animation properties */
-  translatex: 100%;
+  transform: translateX(-100%);
   animation: my-animation 15s linear infinite;
 }
 
 @keyframes my-animation {
   from {
-    transfrom: translatex(100%);
+    transfrom: translatex(-100%);
   }
   to {
-    transform: translate(-100%);
+    transform: translate(100%);
   }
 }

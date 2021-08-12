@@ -9,9 +9,9 @@ const Portf = () => {
     }
     return (
         <div>
-            <div id='protf' className='portf pt2 bg-near-white tc'>
+            <div id='portf' className='portf pt2 bg-near-white tc relative'>
                 <div>
-                    <h1 className='tc pt3'style={{color:'#87ceeb'}} data-aos='fade-up'>Project</h1>
+                    <h1 className='tc pt3 noto-font'style={{color:'#87ceeb'}} data-aos='fade-up'>Project</h1>
                 </div>
                 <div>
                     <article className="br2 ba dark-gray b--black-10 mv4 w-100 w-50-m w-25-s mw5 center" data-aos='flip-up'>
@@ -21,7 +21,7 @@ const Portf = () => {
                         <div className="pa2 ph3-ns pb3-ns">
                             <div className="dt w-100 mt1">
                             <div className="dtc">
-                                <h1 className="f5 f4-ns mv0">Facerecognition</h1>
+                                <h1 className="f5 f4-ns mv0 noto-font">Facerecognition</h1>
                             </div>
                     
                             </div>
@@ -37,5 +37,5 @@ const Portf = () => {
     )
 }
 
-export default Portf
+export default Portf;
 

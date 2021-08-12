@@ -11,12 +11,12 @@ import './About.css'
 const About = () => {
     return (
         <div>
-            <div id='about' className='about pb1 pt1 bg-near-white'>
+            <div id='about' className='about pb1 pt1 bg-near-white noto-font relative '>
                 <div>
                     <h1 className='tc pt3'style={{color:'#87ceeb'}} data-aos='fade-right'>About</h1>
                 </div>
                     <div className="flex flex-wrap justify-around ">
-                        <div className=" w-40-ns pa3 mr2 ">
+                        <div className=" w-50-ns pa3 mr2 ">
                             <p className='tl' data-aos='zoom-in'>
                                 Personal Data <br/><br/>
                                 Birthdate : 19-10-1995 <br/>
@@ -24,21 +24,21 @@ const About = () => {
                                 Email: aryobimoww19@gmail.com
                             </p>
                         </div>
-                            <div className=" w-40-s pa3 mr2 tc">
+                            <div className=" w-40-l pa3 mr2 tc">
                                 <p  data-aos='fade-down'>My Tools</p>
                             <div className='flex item-start pr4 '>
                                  <div className=' w-40-ns pa3 tc'>
-                                <img src={Html5} data-aos='fade-left' data-aos-delay='500'/><br/>
-                                <img src={Css3} data-aos='fade-left' data-aos-delay='800'/><br/>
-                                <img src={Javascript} data-aos='fade-left' data-aos-delay='1000'/>
+                                <img src={Html5} alt='html' data-aos='fade-left' data-aos-delay='500'/><br/>
+                                <img src={Css3} alt='css' data-aos='fade-left' data-aos-delay='800'/><br/>
+                                <img src={Javascript} alt='js' data-aos='fade-left' data-aos-delay='1000'/>
                             </div>
-                            <div className=' w-40-ns pa3'>
-                                <img src={Nodejs} data-aos='fade-left' data-aos-delay='600'/><br/>
-                                <img src={Postgresql} data-aos='fade-left' data-aos-delay='900'/><br/>
-                                <img src={Express} data-aos='fade-left' data-aos-delay='1100'/>
+                            <div className=' w-40-s pa3'>
+                                <img src={Nodejs} alt='4' data-aos='fade-left' data-aos-delay='600'/><br/>
+                                <img src={Postgresql} alt='pos' data-aos='fade-left' data-aos-delay='900'/><br/>
+                                <img src={Express} alt='ex' data-aos='fade-left' data-aos-delay='1100'/>
                             </div>
                             <div className=' w-30-ns pa3'>
-                            <img src={Re} data-aos='fade-left' data-aos-delay='700'/>
+                            <img src={Re} alt='react' data-aos='fade-left' data-aos-delay='700'/>
                             </div>
                             </div>
                         </div>  
