@@ -7,7 +7,7 @@ const Portf = () => {
   const portofolio = [
     {
       title: "Facerecognition",
-      link1: "https://my-face-recognitionv1.herokuapp.com/",
+      link: "https://my-face-recognitionv1.herokuapp.com/",
       imageUrl: project1,
     },
     {
