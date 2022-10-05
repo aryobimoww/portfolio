@@ -1,11 +1,14 @@
 .top {
-  text-decoration: none;
   opacity: 0.6;
-  background-color: #19274d;
+  background-color: #533483;
   font-size: 25px;
   position: fixed;
   bottom: 10px;
-  right: 5px;
+  right: 10px;
   width: 30px;
   height: 30px;
+}
+.arrow {
+  color: white;
+  margin-top: 15px;
 }

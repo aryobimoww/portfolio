@@ -1,4 +1,10 @@
 .about {
   /* position: relative; */
-  max-width: 865px;
+
+  width: 100%;
+  color: #533483;
+}
+
+.icon-container {
+  width: 50px;
 }

@@ -7,8 +7,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: url(back.png);
   scroll-behavior: smooth;
+  background-color: #533483;
 }
 .noto-font {
   font-family: "Noto Sans KR", sans-serif;

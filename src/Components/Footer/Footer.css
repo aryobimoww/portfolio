@@ -1,12 +1,15 @@
 .footer {
   /* position: relative; */
 
-  max-width: 865px;
+  max-width: 100%;
+  background-color: #e94560;
 }
 
 .submit {
-  color: white;
-  background-color: #19274d;
+  color: #e94560;
+  background-color: #16213e;
+  height: 60px;
+  margin-left: 10px;
 }
 .submit:hover {
   background-color: white;
