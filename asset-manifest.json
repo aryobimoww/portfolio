@@ -1,8 +1,19 @@
 {
-  "main.css": "static/css/main.6b4425a2.css",
-  "main.css.map": "static/css/main.6b4425a2.css.map",
-  "main.js": "static/js/main.97bf8c5c.js",
-  "main.js.map": "static/js/main.97bf8c5c.js.map",
-  "static\\media\\herofoto.png": "static/media/herofoto.39cb8a88.png",
-  "static\\media\\project1.png": "static/media/project1.3904e7c4.png"
+  "files": {
+    "main.css": "/portfolio/static/css/main.9fdf2e2b.css",
+    "main.js": "/portfolio/static/js/main.0102078d.js",
+    "static/media/IMG_20220303_112210.png": "/portfolio/static/media/IMG_20220303_112210.a48d1bdc9887593ec5b1.png",
+    "static/media/project2.png": "/portfolio/static/media/project2.58fe8ccb921d16dcc557.png",
+    "static/media/CV-Juli.pdf": "/portfolio/static/media/CV-Juli.1f086f81ef32e01067ec.pdf",
+    "static/media/project1.png": "/portfolio/static/media/project1.2534662d35d6164deaf6.png",
+    "static/media/google_firebase_icon-icons.com_61475.png": "/portfolio/static/media/google_firebase_icon-icons.com_61475.aad643aed48b050987da.png",
+    "static/media/mongodb_plain_wordmark_logo_icon_146423.png": "/portfolio/static/media/mongodb_plain_wordmark_logo_icon_146423.909c449de1a2e13f24cb.png",
+    "index.html": "/portfolio/index.html",
+    "main.9fdf2e2b.css.map": "/portfolio/static/css/main.9fdf2e2b.css.map",
+    "main.0102078d.js.map": "/portfolio/static/js/main.0102078d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9fdf2e2b.css",
+    "static/js/main.0102078d.js"
+  ]
 }
