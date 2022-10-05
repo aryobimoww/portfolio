@@ -1,4 +1,8 @@
 .portf {
   /* position: relative; */
-  max-width: 865px;
+  margin-top: 0;
+  margin-bottom: 0;
+  width: 100%;
+  background-color: #0f3460;
+  color: #e94560;
 }
