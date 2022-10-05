@@ -13,7 +13,7 @@ const Hero = () => {
             </h1>
             <div className="download-container">
               <a href={Cv} download>
-                <button className="download-button">download</button>
+                <button className="download-button">download cv</button>
               </a>
             </div>
           </div>
